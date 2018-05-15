@@ -1,50 +1,16 @@
-## Welcome to GitHub Pages
+## 快捷键汇总
 
-You can use the [editor on GitHub](https://github.com/vgfeng/shortcut_map/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### PyCharm
 
-### Markdown
+Windows 下快捷键
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vgfeng/shortcut_map/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-## PyCharm
-`Alt + Shift + F10`  选择配置并运行/Select configuration and run 
-`Alt + Shift + F9` 选择配置并调式运行/Select configuration and debug 
-Ctrl + F / Ctrl + R 
-F3 / Shift + F3 
-Find/Replace 
-Find next/previous 
-Shift + F10 Run Ctrl + Shift + F Find in path 
-Shift + F9 Debug Ctrl + Shift + R Replace in path 
+- `Alt + Shift + F10`  选择配置并运行/Select configuration and run 
+- `Alt + Shift + F9` 选择配置并调式运行/Select configuration and debug 
+- Ctrl + F / Ctrl + R Find/Replace 
+- F3 / Shift + F3 Find next/previous
+- Shift + F10 Run Ctrl + Shif t + F Find in path 
+- Shift + F9 Debug Ctrl + Shift + R Replace in path 
 Ctrl + Shift + F10 Run context configuration from editor 
 Ctrl + Alt + R Run manage.py task Usage Search 
 Editing Debugging Alt + F7 / Ctrl + F7 Find usages / Find usages in file 
@@ -93,4 +59,7 @@ Ctrl + NumPad+ Expand code block Alt + Home Show navigation bar To find any acti
 Ctrl + NumPad-Collapse code block F11 Toggle bookmark 
 Ctrl + Shift + NumPad+ Expand all Ctrl + Shift + F11 Toggle bookmark with mnemonic 
 Ctrl + Shift + NumPad-Collapse all Ctrl + #[0-9] Go to numbered bookmark 
-Ctrl + F4 Close active editor tab Shift + F11 Show bookmarks jetbrains.com/pycharm blog.jetbrains.com/pycharm @pycharm 
+- `Ctrl + F4` Close active editor tab 
+- `Shift + F11` 展示书签列表/Show bookmarks 
+
+jetbrains.com/pycharm blog.jetbrains.com/pycharm
