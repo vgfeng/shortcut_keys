@@ -37,10 +37,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ## PyCharm
-Alt + Shift + F10 
-Alt + Shift + F9 
-Select configuration and run 
-Select configuration and debug 
+`Alt + Shift + F10`  选择配置并运行/Select configuration and run 
+`Alt + Shift + F9` 选择配置并调式运行/Select configuration and debug 
 Ctrl + F / Ctrl + R 
 F3 / Shift + F3 
 Find/Replace 
